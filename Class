@@ -1,0 +1,7 @@
+Example
+export class AppComponent {
+   appTitle: string = 'Welcome';
+}
+In the example, the following things need to be noted −
+
+We are
