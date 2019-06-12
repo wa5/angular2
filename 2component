@@ -1,0 +1,8 @@
+#app.component.html
+<section>
+  <header>
+    <h1>Csgeeks Movies List</h1>
+    <p class="des">Keeping track of the media I want to watch.</p>
+  </header>
+  <media-item></media-item>
+</section>
